@@ -1,0 +1,1 @@
+{"scripts":{"deploy-folder":"public/morgan:arraytest","deploy":[["run","snapshot-component","--","-n","morgan:arraytest"]],"setup":[["install"],["run","local-only-bootstrap","--","--watchAfterBuild=no"]]}}
